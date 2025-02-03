@@ -3,7 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Group11_Assignment2", "Group11_Assignment2.csproj", "{FE32C270-934F-4225-9B17-4DB2B1E0549D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Group11_Assignment2", "Group11_Assignment2.csproj", "{FE32C270-934F-4225-9B17-4DB2B1E0549D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2D4F34BA-C1D6-43EA-956A-3674F199F41F}"
+	ProjectSection(SolutionItems) = preProject
+		Product.cs = Product.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Group11_Assignment2Tests", "..\Group11_Assignment2Tests\Group11_Assignment2Tests.csproj", "{3EE0F3E7-3F01-465E-ACE0-E17CF7B14EE2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +22,10 @@ Global
 		{FE32C270-934F-4225-9B17-4DB2B1E0549D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE32C270-934F-4225-9B17-4DB2B1E0549D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE32C270-934F-4225-9B17-4DB2B1E0549D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EE0F3E7-3F01-465E-ACE0-E17CF7B14EE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE0F3E7-3F01-465E-ACE0-E17CF7B14EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE0F3E7-3F01-465E-ACE0-E17CF7B14EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE0F3E7-3F01-465E-ACE0-E17CF7B14EE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Group11_Assignment2
 {
@@ -24,6 +20,7 @@ namespace Group11_Assignment2
             if (string.IsNullOrEmpty(prodName))
             {
                 Console.WriteLine("Invalid ProductName");
+                ProductName = "Unknown"; // Assign "Unknown" if product name is invalid
                 return false;
             }
 
@@ -47,6 +44,7 @@ namespace Group11_Assignment2
             return true;
         }
 
+
         public void IncreaseStock(int amount)
         {
             if (amount > 0)
@@ -62,6 +60,6 @@ namespace Group11_Assignment2
                 StockAmount -= amount;
             }
         }
-    }
 
+    }
 }
