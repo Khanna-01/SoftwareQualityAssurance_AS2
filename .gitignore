@@ -1,0 +1,14 @@
+# Ignore Visual Studio cache files
+.vs/
+*.suo
+*.user
+*.vscode
+
+# Ignore build and debug files
+bin/
+obj/
+*.dll
+*.exe
+
+# Ignore cache files
+*.cache
