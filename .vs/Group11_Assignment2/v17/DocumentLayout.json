@@ -1,17 +1,23 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Winter25\\Software\\Group11_Assignment2\\",
+  "WorkspaceRootPath": "F:\\Winter25\\Software\\Assignement2_Group11\\Group11_Assignment2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D4F34BA-C1D6-43EA-956A-3674F199F41F}|Solution Items{2D4F34BA-C1D6-43EA-956A-3674F199F41F}|F:\\Winter25\\Software\\Group11_Assignment2\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3EE0F3E7-3F01-465E-ACE0-E17CF7B14EE2}|..\\Group11_Assignment2Tests\\Group11_Assignment2Tests.csproj|f:\\winter25\\software\\assignement2_group11\\group11_assignment2tests\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4F34BA-C1D6-43EA-956A-3674F199F41F}|Solution Items{2D4F34BA-C1D6-43EA-956A-3674F199F41F}|F:\\Winter25\\Software\\Assignement2_Group11\\Group11_Assignment2\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D4F34BA-C1D6-43EA-956A-3674F199F41F}|Solution Items{2D4F34BA-C1D6-43EA-956A-3674F199F41F}|solutionrelative:Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EE0F3E7-3F01-465E-ACE0-E17CF7B14EE2}|..\\Group11_Assignment2Tests\\Group11_Assignment2Tests.csproj|f:\\winter25\\software\\group11_assignment2tests\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|f:\\winter25\\software\\group11_assignment2tests\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE32C270-934F-4225-9B17-4DB2B1E0549D}|Group11_Assignment2.csproj|f:\\winter25\\software\\group11_assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE32C270-934F-4225-9B17-4DB2B1E0549D}|Group11_Assignment2.csproj|F:\\Winter25\\Software\\Assignement2_Group11\\Group11_Assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE32C270-934F-4225-9B17-4DB2B1E0549D}|Group11_Assignment2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|f:\\winter25\\software\\group11_assignment2tests\\group11_assignment2tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,46 +27,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProductTests.cs",
-              "DocumentMoniker": "F:\\Winter25\\Software\\Group11_Assignment2Tests\\ProductTests.cs",
+              "DocumentMoniker": "F:\\Winter25\\Software\\Assignement2_Group11\\Group11_Assignment2Tests\\ProductTests.cs",
               "RelativeDocumentMoniker": "..\\Group11_Assignment2Tests\\ProductTests.cs",
-              "ToolTip": "F:\\Winter25\\Software\\Group11_Assignment2Tests\\ProductTests.cs",
+              "ToolTip": "F:\\Winter25\\Software\\Assignement2_Group11\\Group11_Assignment2Tests\\ProductTests.cs",
               "RelativeToolTip": "..\\Group11_Assignment2Tests\\ProductTests.cs",
-              "ViewState": "AQIAAHUAAAAAAAAAAAAAAHIAAAAJAAAA",
+              "ViewState": "AQIAAM0AAAAAAAAAAAAAANQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T00:29:43.378Z",
+              "WhenOpened": "2025-02-07T04:46:56.04Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Product.cs",
-              "DocumentMoniker": "F:\\Winter25\\Software\\Group11_Assignment2\\Product.cs",
-              "RelativeDocumentMoniker": "Product.cs",
-              "ToolTip": "F:\\Winter25\\Software\\Group11_Assignment2\\Product.cs*",
-              "RelativeToolTip": "Product.cs*",
-              "ViewState": "AQIAAAkAAAAAAAAAAAA6wD4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T00:14:47.226Z",
-              "EditorCaption": ""
+              "DocumentIndex": 4,
+              "Title": "Group11_Assignment2Tests",
+              "DocumentMoniker": "F:\\Winter25\\Software\\Assignement2_Group11\\Group11_Assignment2Tests\\Group11_Assignment2Tests.csproj",
+              "RelativeDocumentMoniker": "..\\Group11_Assignment2Tests\\Group11_Assignment2Tests.csproj",
+              "ToolTip": "F:\\Winter25\\Software\\Assignement2_Group11\\Group11_Assignment2Tests\\Group11_Assignment2Tests.csproj",
+              "RelativeToolTip": "..\\Group11_Assignment2Tests\\Group11_Assignment2Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T19:27:17.844Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ProductTests.cs",
+              "DocumentMoniker": "F:\\Winter25\\Software\\Assignement2_Group11\\Group11_Assignment2Tests\\ProductTests.cs",
+              "RelativeDocumentMoniker": "..\\Group11_Assignment2Tests\\ProductTests.cs",
+              "ToolTip": "F:\\Winter25\\Software\\Assignement2_Group11\\Group11_Assignment2Tests\\ProductTests.cs",
+              "RelativeToolTip": "..\\Group11_Assignment2Tests\\ProductTests.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAowAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T00:29:43.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\Winter25\\Software\\Assignement2_Group11\\Group11_Assignment2\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "F:\\Winter25\\Software\\Assignement2_Group11\\Group11_Assignment2\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T00:14:47.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Winter25\\Software\\Group11_Assignment2\\Program.cs",
+              "DocumentMoniker": "F:\\Winter25\\Software\\Assignement2_Group11\\Group11_Assignment2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "F:\\Winter25\\Software\\Group11_Assignment2\\Program.cs",
+              "ToolTip": "F:\\Winter25\\Software\\Assignement2_Group11\\Group11_Assignment2\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T00:04:33.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T00:04:33.757Z"
             }
           ]
         }

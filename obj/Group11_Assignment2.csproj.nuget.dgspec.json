@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Winter25\\Software\\Group11_Assignment2\\Group11_Assignment2.csproj": {}
+    "F:\\Winter25\\Software\\Assignement2_Group11\\Group11_Assignment2\\Group11_Assignment2.csproj": {}
   },
   "projects": {
-    "F:\\Winter25\\Software\\Group11_Assignment2\\Group11_Assignment2.csproj": {
+    "F:\\Winter25\\Software\\Assignement2_Group11\\Group11_Assignment2\\Group11_Assignment2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Winter25\\Software\\Group11_Assignment2\\Group11_Assignment2.csproj",
+        "projectUniqueName": "F:\\Winter25\\Software\\Assignement2_Group11\\Group11_Assignment2\\Group11_Assignment2.csproj",
         "projectName": "Group11_Assignment2",
-        "projectPath": "F:\\Winter25\\Software\\Group11_Assignment2\\Group11_Assignment2.csproj",
+        "projectPath": "F:\\Winter25\\Software\\Assignement2_Group11\\Group11_Assignment2\\Group11_Assignment2.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "F:\\Winter25\\Software\\Group11_Assignment2\\obj\\",
+        "outputPath": "F:\\Winter25\\Software\\Assignement2_Group11\\Group11_Assignment2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
